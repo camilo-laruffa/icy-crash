@@ -5,5 +5,5 @@ Icy Crash is a snowboarding game
 - The game uses the Universal Render Pipeline package.
 
 ## Here is the link to try the web game. 
-<link url="https://shovel-games.itch.io/icy-crash">asd</link>
+https://shovel-games.itch.io/icy-crash
 
